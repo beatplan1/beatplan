@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://beatplan.netlify.app/img/icon.png" width="88" alt="Beatplan">
+  <img src="https://beatplan.app/img/icon.png" width="88" alt="Beatplan">
 </p>
 
 <h1 align="center">Beatplan</h1>
@@ -10,14 +10,14 @@
 </p>
 
 <p align="center">
-  <a href="https://beatplan.netlify.app">Website</a> ·
+  <a href="https://beatplan.app">Website</a> ·
   <a href="https://beatplan-demo.netlify.app">Live demo (no sign-up)</a> ·
-  <a href="https://beatplan.netlify.app/#pricing">Pricing</a> ·
-  <a href="https://beatplan.netlify.app/docs/setup.html">Setup guide</a>
+  <a href="https://beatplan.app/#pricing">Pricing</a> ·
+  <a href="https://beatplan.app/docs/setup.html">Setup guide</a>
 </p>
 
 <p align="center">
-  <img src="https://beatplan.netlify.app/img/web-home.webp" width="760" alt="Beatplan director dashboard: regions and reps against target">
+  <img src="https://beatplan.app/img/web-home.webp" width="760" alt="Beatplan director dashboard: regions and reps against target">
 </p>
 
 > This repository is the public showcase for Beatplan. The source code is sold under a commercial licence and delivered as a download after purchase. It is not hosted here.
@@ -37,9 +37,9 @@ Beatplan is the complete source code of a field sales system that has run a real
 | **Roles** | Field rep, team lead, admin, director, accounts, logistics |
 
 <p align="center">
-  <img src="https://beatplan.netlify.app/img/ph-home.webp" width="230" alt="Phone app home screen">
-  <img src="https://beatplan.netlify.app/img/ph-fleet.webp" width="230" alt="Fleet screen">
-  <img src="https://beatplan.netlify.app/img/ph-payments.webp" width="230" alt="Payments screen">
+  <img src="https://beatplan.app/img/ph-home.webp" width="230" alt="Phone app home screen">
+  <img src="https://beatplan.app/img/ph-fleet.webp" width="230" alt="Fleet screen">
+  <img src="https://beatplan.app/img/ph-payments.webp" width="230" alt="Payments screen">
 </p>
 
 ## Tech stack
@@ -71,14 +71,18 @@ One-time payment, no subscriptions.
 | Commercial | $4,900 | Delivering it to one client company |
 | Agency | $12,900 | Unlimited client companies, white-label |
 
-[Buy on the website](https://beatplan.netlify.app/#pricing) · [Read the licence](https://beatplan.netlify.app/license.html) · Not licensed for use in Pakistan.
+[Buy on the website](https://beatplan.app/#pricing) · [Read the licence](https://beatplan.app/license.html) · Not licensed for use in Pakistan.
 
 ## Compared with subscription tools
 
-- [Beatplan vs SPOTIO](https://beatplan.netlify.app/compare/spotio-alternative.html)
-- [Beatplan vs Badger Maps](https://beatplan.netlify.app/compare/badger-maps-alternative.html)
-- [Field sales app for distributors](https://beatplan.netlify.app/compare/field-sales-app-for-distributors.html)
-- [Field sales app source code](https://beatplan.netlify.app/compare/field-sales-app-source-code.html)
+- [Beatplan vs SPOTIO](https://beatplan.app/compare/spotio-alternative.html)
+- [Beatplan vs Badger Maps](https://beatplan.app/compare/badger-maps-alternative.html)
+- [Field sales app for distributors](https://beatplan.app/compare/field-sales-app-for-distributors.html)
+- [Field sales app source code](https://beatplan.app/compare/field-sales-app-source-code.html)
+
+## Elsewhere
+
+[Wikidata (Q141987235)](https://www.wikidata.org/wiki/Q141987235) · [AlternativeTo](https://alternativeto.net/software/beatplan/about/)
 
 ## Contact
 
